@@ -101,7 +101,7 @@ p {
   color: hsl(228, 45%, 44%);
 }
 
-//@media screen and (min-width: 800px) {
+@media screen and (min-width: 800px) {
   body {
     width: 1440px;
     background-color: hsl(0, 0%, 95%);
